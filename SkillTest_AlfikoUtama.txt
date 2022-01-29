@@ -1,0 +1,4 @@
+Nama: Alfiko Utama
+Umur: 25
+Stack: FrontEnd
+Bahasa Pemograman: React JS, CodeIgniter, PostgreSQL
